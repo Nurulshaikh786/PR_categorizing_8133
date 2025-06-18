@@ -25,7 +25,8 @@ This C++ project focuses on implementing and testing **two sorting algorithms** 
 
 ### 📸 Screenshot 1: Input + Binary Search on Unsorted Array  
 ![Output 1] 
-![alt text](image.png)
+![alt text](image-1.png)
+
 
 Highlights:
 - Entered array: `5 4 3 2 1`
@@ -36,7 +37,7 @@ Highlights:
 ### 📸 Screenshot 2: Sorting and Display  
 
 ![Output 2] 
-![alt text](image-1.png)
+d:\nurulcpp\PR_categorizing_8133\SS\image-1.png
 
 Highlights:
 - Selection Sort successfully executed
@@ -46,8 +47,7 @@ Highlights:
 
 ### 📸 Screenshot 3: Program Exit  
 ![Output 3] 
-![alt text](image-2.png)
-
+d:\nurulcpp\PR_categorizing_8133\SS\image.png
 Highlights:
 - User selects option `0` to exit
 - Program ends gracefully with a success message
