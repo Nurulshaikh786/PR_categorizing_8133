@@ -37,7 +37,8 @@ Highlights:
 ### 📸 Screenshot 2: Sorting and Display  
 
 ![Output 2] 
-d:\nurulcpp\PR_categorizing_8133\SS\image-1.png
+![image-1](https://github.com/user-attachments/assets/86e23fd0-ac1f-4ab5-8aea-fbfbd29bf818)
+
 
 Highlights:
 - Selection Sort successfully executed
@@ -47,7 +48,8 @@ Highlights:
 
 ### 📸 Screenshot 3: Program Exit  
 ![Output 3] 
-d:\nurulcpp\PR_categorizing_8133\SS\image.png
+![image-2](https://github.com/user-attachments/assets/7aa24717-adcc-4178-a3a5-51066327d8be)
+
 Highlights:
 - User selects option `0` to exit
 - Program ends gracefully with a success message
